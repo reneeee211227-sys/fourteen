@@ -6,37 +6,37 @@ const envelopes = [
   {
     label: "Open when you’re sad",
     verse: "Psalm 34:18 — The Lord is close to the brokenhearted.",
-    messageImg: "sad.png"
+    //messageImg: "sad.png"
   },
   {
     label: "Open when you’re happy",
     verse: "Psalm 118:24 — This is the day the Lord has made; let us rejoice.",
-    messageImg: "happy.png"
+    //messageImg: "happy.png"
   },
   {
     label: "Open when you’re worried",
     verse: "Philippians 4:6 — Do not be anxious about anything...",
-    messageImg: "worried.png"
+   // messageImg: "worried.png"
   },
   {
     label: "Open when you need strength",
     verse: "Isaiah 40:31 — Those who hope in the Lord will renew their strength.",
-    messageImg: "strength.png"
+    //messageImg: "strength.png"
   },
   {
     label: "Open when you need hope",
     verse: "Jeremiah 29:11 — For I know the plans I have for you...",
-    messageImg: "hope.png"
+    //messageImg: "hope.png"
   },
   {
     label: "Open when you feel alone",
     verse: "Deuteronomy 31:6 — Be strong and courageous. Do not be afraid...",
-    messageImg: "alone.png"
+    //messageImg: "alone.png"
   },
   {
     label: "Open when you feel loved",
     verse: "Romans 8:38-39 — Nothing can separate us from the love of God.",
-    messageImg: "loved.png"
+    //messageImg: "loved.png"
   }
 ];
 
